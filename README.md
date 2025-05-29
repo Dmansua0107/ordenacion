@@ -1,7 +1,7 @@
 # Ordenación. Algoritmos básicos
 Repositorio para profundizar el python estudiando cómo ordenar una lista.
 Autor: David.M.S.
-Fecha: 08/04/2025.
+Fecha: 29/05/2025.
 Organización: IES José de Mora.
 
 ## Algoritmos:
